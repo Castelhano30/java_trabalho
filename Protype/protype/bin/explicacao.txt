@@ -1,0 +1,3 @@
+ padrão de projeto Prototype é um padrão criacional que permite criar novos objetos duplicando objetos existentes, chamados de "protótipos". 
+ Em vez de criar objetos do zero, você clona um objeto protótipo e, em seguida, faz as modificações necessárias. Isso é útil quando a criação de um objeto é mais custosa em termos de desempenho ou complexidade, e você deseja evitar essa sobrecarga, optando por clonar um objeto já existente. 
+ O padrão Prototype promove a reutilização e a flexibilidade na criação de objetos.
